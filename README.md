@@ -69,7 +69,7 @@ A visual, interactive maze generator and solver built from scratch with vanilla 
 **Built with:** JavaScript, HTML5 Canvas, CSS  
 **Concepts:** Graph traversal, stack/queue logic, backtracking, shortest path
 
-🔗 [Live Demo](https://amninajiha23.github.io/maze-generator-solver/) · [Repository](https://github.com/amninajiha23/maze-generator-solver)
+🔗 [Live Demo]( https://amninajiha.github.io/maze/) · [Repository](https://github.com/amninajiha/maze)
 
 ---
 
