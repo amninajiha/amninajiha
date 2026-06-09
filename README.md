@@ -86,7 +86,7 @@ A pseudo-3D rendering engine inspired by classic 90s FPS games, built entirely i
 **Built with:** JavaScript, HTML5 Canvas  
 **Concepts:** Ray casting, computational geometry, collision detection, game loop
 
-🔗 [Live Demo](https://amninajiha23.github.io/raycaster/) · [Repository](https://github.com/amninajiha23/raycaster)
+🔗 [Live Demo]( https://amninajiha.github.io/raycaster/ ) · [Repository](https://github.com/amninajiha/raycaster/tree/main)
 
 ---
 
